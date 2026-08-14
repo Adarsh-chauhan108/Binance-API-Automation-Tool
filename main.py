@@ -1,5 +1,6 @@
 from bot import BasicBot
 import logging
+
 logging.basicConfig(
     filename='trading_bot.log',
     level=logging.INFO,
